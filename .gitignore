@@ -2,7 +2,9 @@
 bin/
 bin-debug/
 bin-release/
-
+README.txt
+demos/
+extras/documentation
 # Other files and folders
 .settings/
 
