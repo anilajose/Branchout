@@ -1,6 +1,6 @@
 # Branchout
 
-echo # Branchout >> README.md
+echo # Develop branch >> README.md
 git init
 git add README.md
 git commit -m "first commit"
