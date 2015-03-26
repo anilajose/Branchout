@@ -1,0 +1,4 @@
+general:
+  branches:
+    only:
+      - QA_* # branches to build
