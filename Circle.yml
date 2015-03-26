@@ -1,4 +1,4 @@
 general:
   branches:
     only:
-      - /^QA_.*$/
+      - /QA_.*/
